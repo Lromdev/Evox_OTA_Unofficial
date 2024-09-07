@@ -1,9 +1,0 @@
-Changelog:
-• Ship charging control again since it was seeming to work for many
-• Hide bugged Design and Max Battery Capacity
-• Fix bootloop causing notch cutouts
-• Introduce Shake Gestures
-• Introduce Three finger swipe/long press gestures      
-• Introduce bootanimation styles / switcher
-• Revamp face unlock indication
-• Implement QS Split Shade
